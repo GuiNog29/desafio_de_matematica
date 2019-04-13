@@ -2,7 +2,7 @@
 
 ## Exercício para treino
 
-No exercicio o usuário coloca um número e o programa mostrará;
+No exercício o usuário colocará um número e o programa mostrará:
 
 Se o número é par ou impar;
 
