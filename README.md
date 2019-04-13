@@ -1,4 +1,4 @@
-# Desafio_de_Matemática
+# Desafio de Matemática
 
 ## Exercício para treino
 
